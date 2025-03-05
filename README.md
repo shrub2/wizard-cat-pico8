@@ -1,1 +1,1 @@
-# wizard_cat_pico8
+# wizard-cat-pico8
